@@ -42,7 +42,7 @@ export default function FeaturedPlants() {
   };
 
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-12" style={{ backgroundColor: '#ECEC75' }}>
+    <section className="py-20 px-4 sm:px-6 lg:px-12 bg-white">
       <div className="max-w-7xl mx-auto">
         {/* Section Title */}
         <h2 className="text-3xl md:text-4xl font-bold text-primary-dark text-center mb-12">
