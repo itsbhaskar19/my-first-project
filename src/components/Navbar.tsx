@@ -29,8 +29,7 @@ export default function Navbar() {
           {/* Logo/Brand */}
           <Link
             href="/"
-            className="text-xl font-bold transition-colors"
-            style={{ color: '#ECEC75' }}
+            className="text-xl font-bold text-primary-dark hover:text-primary transition-colors"
             onClick={closeMobileMenu}
           >
             Lakshmi Shanmukhi Nursery Gardens
