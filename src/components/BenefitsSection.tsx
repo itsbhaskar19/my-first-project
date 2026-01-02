@@ -39,7 +39,7 @@ export default function BenefitsSection() {
           {benefits.map((benefit, index) => (
             <div
               key={index}
-              className="bg-white rounded-lg p-6 text-center shadow-md hover:shadow-lg transition-shadow"
+              className="bg-white rounded-lg p-6 text-center"
             >
               {/* Icon */}
               <div className="text-5xl mb-4">{benefit.icon}</div>
