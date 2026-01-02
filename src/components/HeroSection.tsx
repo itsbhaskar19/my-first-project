@@ -51,7 +51,7 @@ export default function HeroSection() {
 
       {/* Content */}
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-center px-4">
-        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 max-w-4xl">
+        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 max-w-4xl" style={{ color: '#ECEC75' }}>
           Lakshmi Shanmukhi Nursery Gardens
         </h1>
         <p className="text-lg md:text-xl lg:text-2xl text-white/90 mb-8 max-w-2xl">

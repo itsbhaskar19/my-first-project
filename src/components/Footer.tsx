@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Column 1: About */}
           <div>
-            <h3 className="text-lg font-bold mb-4">
+            <h3 className="text-lg font-bold mb-4" style={{ color: '#ECEC75' }}>
               Lakshmi Shanmukhi Nursery Gardens
             </h3>
             <p className="text-gray-300 text-sm leading-relaxed">
@@ -107,7 +107,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-8 pt-8 border-t border-gray-600 text-center">
           <p className="text-sm text-gray-300">
-            © {currentYear} Lakshmi Shanmukhi Nursery Gardens. All rights reserved.
+            © {currentYear} <span style={{ color: '#ECEC75' }}>Lakshmi Shanmukhi Nursery Gardens</span>. All rights reserved.
           </p>
         </div>
       </div>
