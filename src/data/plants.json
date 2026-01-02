@@ -1,0 +1,302 @@
+[
+  {
+    "id": "monstera-deliciosa",
+    "name": "Monstera Deliciosa",
+    "scientificName": "Monstera deliciosa",
+    "category": "Indoor",
+    "description": "Also known as the Swiss Cheese Plant, this stunning tropical plant features large, glossy leaves with distinctive splits and holes. It's a popular choice for adding a bold, jungle-like aesthetic to any indoor space.",
+    "careInstructions": {
+      "light": "Bright indirect sunlight; can tolerate some shade",
+      "water": "Water when top 2 inches of soil are dry; typically once a week",
+      "temperature": "65-85°F (18-29°C)",
+      "humidity": "Moderate to high; mist regularly for best results"
+    },
+    "image": "/images/plants/monstera-deliciosa.jpg",
+    "featured": true
+  },
+  {
+    "id": "snake-plant",
+    "name": "Snake Plant",
+    "scientificName": "Sansevieria trifasciata",
+    "category": "Indoor",
+    "description": "One of the most resilient houseplants, the Snake Plant features upright, sword-shaped leaves with striking variegation. Perfect for beginners, it thrives on neglect and purifies indoor air effectively.",
+    "careInstructions": {
+      "light": "Low to bright indirect light; very adaptable",
+      "water": "Allow soil to dry completely between waterings; every 2-3 weeks",
+      "temperature": "60-85°F (15-29°C)",
+      "humidity": "Low to moderate; very drought tolerant"
+    },
+    "image": "/images/plants/snake-plant.jpg",
+    "featured": true
+  },
+  {
+    "id": "peace-lily",
+    "name": "Peace Lily",
+    "scientificName": "Spathiphyllum",
+    "category": "Flowering",
+    "description": "Elegant and graceful, the Peace Lily produces beautiful white blooms that rise above lush, dark green foliage. It's an excellent air purifier and signals when it needs water by drooping slightly.",
+    "careInstructions": {
+      "light": "Low to medium indirect light; avoid direct sun",
+      "water": "Keep soil consistently moist but not waterlogged; water weekly",
+      "temperature": "65-80°F (18-27°C)",
+      "humidity": "High; mist regularly or use humidity tray"
+    },
+    "image": "/images/plants/peace-lily.jpg",
+    "featured": true
+  },
+  {
+    "id": "fiddle-leaf-fig",
+    "name": "Fiddle Leaf Fig",
+    "scientificName": "Ficus lyrata",
+    "category": "Indoor",
+    "description": "A statement plant with large, violin-shaped leaves that create a dramatic focal point. This trendy houseplant adds sculptural beauty and can grow into an impressive indoor tree with proper care.",
+    "careInstructions": {
+      "light": "Bright indirect light; rotate regularly for even growth",
+      "water": "Water when top inch of soil is dry; typically once a week",
+      "temperature": "65-75°F (18-24°C)",
+      "humidity": "Moderate to high; wipe leaves to remove dust"
+    },
+    "image": "/images/plants/fiddle-leaf-fig.jpg",
+    "featured": true
+  },
+  {
+    "id": "pothos",
+    "name": "Golden Pothos",
+    "scientificName": "Epipremnum aureum",
+    "category": "Indoor",
+    "description": "A versatile trailing vine with heart-shaped leaves splashed with golden yellow. Extremely easy to care for and propagate, it looks beautiful in hanging baskets or cascading from shelves.",
+    "careInstructions": {
+      "light": "Low to bright indirect light; very adaptable",
+      "water": "Water when soil feels dry; every 7-10 days",
+      "temperature": "60-85°F (15-29°C)",
+      "humidity": "Average household humidity is fine"
+    },
+    "image": "/images/plants/pothos.jpg",
+    "featured": true
+  },
+  {
+    "id": "zz-plant",
+    "name": "ZZ Plant",
+    "scientificName": "Zamioculcas zamiifolia",
+    "category": "Indoor",
+    "description": "With glossy, oval-shaped leaves on elegant upright stems, the ZZ Plant is virtually indestructible. It tolerates low light and irregular watering, making it perfect for offices or low-maintenance spaces.",
+    "careInstructions": {
+      "light": "Low to bright indirect light; very tolerant",
+      "water": "Allow soil to dry completely; water every 2-3 weeks",
+      "temperature": "60-75°F (15-24°C)",
+      "humidity": "Low; very drought tolerant"
+    },
+    "image": "/images/plants/zz-plant.jpg",
+    "featured": true
+  },
+  {
+    "id": "rubber-plant",
+    "name": "Rubber Plant",
+    "scientificName": "Ficus elastica",
+    "category": "Indoor",
+    "description": "Features large, thick, glossy leaves in deep green or burgundy shades. This robust plant makes a bold architectural statement and can grow quite tall indoors with the right conditions.",
+    "careInstructions": {
+      "light": "Bright indirect light; can tolerate some direct morning sun",
+      "water": "Water when top 2 inches of soil are dry; weekly in summer",
+      "temperature": "60-75°F (15-24°C)",
+      "humidity": "Moderate; wipe leaves occasionally"
+    },
+    "image": "/images/plants/rubber-plant.jpg",
+    "featured": true
+  },
+  {
+    "id": "spider-plant",
+    "name": "Spider Plant",
+    "scientificName": "Chlorophytum comosum",
+    "category": "Indoor",
+    "description": "Characterized by arching leaves with green and white stripes, this plant produces baby plantlets on long stems. One of the easiest plants to grow and propagate, perfect for hanging displays.",
+    "careInstructions": {
+      "light": "Bright indirect light; tolerates some shade",
+      "water": "Keep soil lightly moist; water when top inch is dry",
+      "temperature": "65-75°F (18-24°C)",
+      "humidity": "Average; tolerant of various conditions"
+    },
+    "image": "/images/plants/spider-plant.jpg",
+    "featured": true
+  },
+  {
+    "id": "aloe-vera",
+    "name": "Aloe Vera",
+    "scientificName": "Aloe barbadensis miller",
+    "category": "Indoor",
+    "description": "A succulent with thick, fleshy leaves containing healing gel. Besides being decorative, Aloe Vera has medicinal properties and is incredibly low-maintenance, perfect for sunny windowsills.",
+    "careInstructions": {
+      "light": "Bright direct or indirect light; needs at least 6 hours daily",
+      "water": "Water deeply but infrequently; every 2-3 weeks",
+      "temperature": "55-80°F (13-27°C)",
+      "humidity": "Low; very drought tolerant"
+    },
+    "image": "/images/plants/aloe-vera.jpg",
+    "featured": false
+  },
+  {
+    "id": "jade-plant",
+    "name": "Jade Plant",
+    "scientificName": "Crassula ovata",
+    "category": "Indoor",
+    "description": "A succulent with thick, woody stems and plump, oval leaves. Often called the money tree, this long-lived plant can grow into a miniature tree shape and symbolizes good fortune and prosperity.",
+    "careInstructions": {
+      "light": "Bright light with some direct sun; south-facing window ideal",
+      "water": "Water when soil is completely dry; every 2-3 weeks",
+      "temperature": "65-75°F (18-24°C)",
+      "humidity": "Low; prefers dry conditions"
+    },
+    "image": "/images/plants/jade-plant.jpg",
+    "featured": false
+  },
+  {
+    "id": "philodendron",
+    "name": "Heartleaf Philodendron",
+    "scientificName": "Philodendron hederaceum",
+    "category": "Indoor",
+    "description": "Fast-growing vine with glossy, heart-shaped leaves. This classic houseplant is forgiving and versatile, thriving in various conditions and looking beautiful trailing from shelves or climbing a moss pole.",
+    "careInstructions": {
+      "light": "Low to bright indirect light; very adaptable",
+      "water": "Water when top inch of soil is dry; weekly",
+      "temperature": "65-80°F (18-27°C)",
+      "humidity": "Average to high; mist occasionally"
+    },
+    "image": "/images/plants/philodendron.jpg",
+    "featured": false
+  },
+  {
+    "id": "hibiscus",
+    "name": "Hibiscus",
+    "scientificName": "Hibiscus rosa-sinensis",
+    "category": "Flowering",
+    "description": "Tropical flowering plant producing large, showy blooms in vibrant colors. These spectacular flowers add a pop of color to gardens and patios, blooming prolifically throughout warm months.",
+    "careInstructions": {
+      "light": "Full sun; at least 6 hours of direct sunlight daily",
+      "water": "Keep soil consistently moist; water daily in hot weather",
+      "temperature": "60-90°F (15-32°C); protect from frost",
+      "humidity": "Moderate to high; tolerates outdoor humidity"
+    },
+    "image": "/images/plants/hibiscus.jpg",
+    "featured": false
+  },
+  {
+    "id": "jasmine",
+    "name": "Jasmine",
+    "scientificName": "Jasminum",
+    "category": "Flowering",
+    "description": "Climbing vine or shrub famous for intensely fragrant, delicate white or yellow flowers. The intoxicating scent fills gardens in evening hours, making it a favorite for outdoor spaces and entryways.",
+    "careInstructions": {
+      "light": "Full sun to partial shade; at least 4-6 hours of sun",
+      "water": "Keep soil moist but not waterlogged; water regularly",
+      "temperature": "60-75°F (15-24°C)",
+      "humidity": "Moderate to high; benefits from morning dew"
+    },
+    "image": "/images/plants/jasmine.jpg",
+    "featured": false
+  },
+  {
+    "id": "rose",
+    "name": "Rose",
+    "scientificName": "Rosa",
+    "category": "Flowering",
+    "description": "Classic flowering shrub available in countless varieties and colors. Roses are the ultimate garden flower, offering beauty, fragrance, and elegance. Perfect for borders, hedges, or as standalone features.",
+    "careInstructions": {
+      "light": "Full sun; minimum 6 hours of direct sunlight",
+      "water": "Water deeply 2-3 times per week; more in hot weather",
+      "temperature": "60-75°F (15-24°C); hardy to frost",
+      "humidity": "Moderate; ensure good air circulation"
+    },
+    "image": "/images/plants/rose.jpg",
+    "featured": false
+  },
+  {
+    "id": "marigold",
+    "name": "Marigold",
+    "scientificName": "Tagetes",
+    "category": "Flowering",
+    "description": "Cheerful annual flowers in bright orange, yellow, and red hues. Marigolds are easy to grow, bloom profusely, and have pest-repelling properties, making them ideal companions in vegetable gardens.",
+    "careInstructions": {
+      "light": "Full sun for best blooms; tolerates partial shade",
+      "water": "Water when soil surface is dry; avoid overhead watering",
+      "temperature": "70-75°F (21-24°C) for optimal growth",
+      "humidity": "Low to moderate; very heat tolerant"
+    },
+    "image": "/images/plants/marigold.jpg",
+    "featured": false
+  },
+  {
+    "id": "bougainvillea",
+    "name": "Bougainvillea",
+    "scientificName": "Bougainvillea",
+    "category": "Flowering",
+    "description": "Vigorous climbing plant with vibrant, papery bracts in magenta, purple, red, orange, or white. Creates stunning cascades of color on walls, trellises, and pergolas in warm climates.",
+    "careInstructions": {
+      "light": "Full sun; needs 6+ hours for prolific blooming",
+      "water": "Allow soil to dry between waterings; drought tolerant once established",
+      "temperature": "65-95°F (18-35°C); sensitive to frost",
+      "humidity": "Low to moderate; thrives in dry heat"
+    },
+    "image": "/images/plants/bougainvillea.jpg",
+    "featured": false
+  },
+  {
+    "id": "boston-fern",
+    "name": "Boston Fern",
+    "scientificName": "Nephrolepis exaltata",
+    "category": "Outdoor",
+    "description": "Lush, feathery fronds create a full, graceful appearance. This classic fern adds a touch of Victorian elegance to shaded porches and patios, and can also thrive indoors with proper humidity.",
+    "careInstructions": {
+      "light": "Bright indirect light to partial shade",
+      "water": "Keep soil consistently moist; never let dry out completely",
+      "temperature": "60-75°F (15-24°C)",
+      "humidity": "High; mist daily or use humidity tray"
+    },
+    "image": "/images/plants/boston-fern.jpg",
+    "featured": false
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "scientificName": "Lavandula",
+    "category": "Flowering",
+    "description": "Aromatic herb with purple-blue flower spikes and silvery-green foliage. Beloved for its calming fragrance, drought tolerance, and ability to attract pollinators while repelling pests.",
+    "careInstructions": {
+      "light": "Full sun; at least 6-8 hours daily",
+      "water": "Water sparingly; drought tolerant once established",
+      "temperature": "60-70°F (15-21°C) ideal; cold hardy",
+      "humidity": "Low; prefers dry conditions"
+    },
+    "image": "/images/plants/lavender.jpg",
+    "featured": false
+  },
+  {
+    "id": "cactus-mix",
+    "name": "Cactus Mix",
+    "scientificName": "Various species",
+    "category": "Indoor",
+    "description": "Collection of diverse cacti featuring unique shapes, sizes, and occasional blooms. These desert plants are incredibly low-maintenance and add sculptural interest to sunny spots.",
+    "careInstructions": {
+      "light": "Bright direct light; south-facing window ideal",
+      "water": "Water sparingly; every 2-4 weeks depending on season",
+      "temperature": "70-85°F (21-29°C) ideal; tolerates cooler in winter",
+      "humidity": "Very low; adapted to arid conditions"
+    },
+    "image": "/images/plants/cactus-mix.jpg",
+    "featured": false
+  },
+  {
+    "id": "succulents-assorted",
+    "name": "Assorted Succulents",
+    "scientificName": "Various species",
+    "category": "Indoor",
+    "description": "Diverse collection of plump, water-storing plants in various colors and forms. Perfect for dish gardens, terrariums, or small pots, these forgiving plants are ideal for busy lifestyles.",
+    "careInstructions": {
+      "light": "Bright light; some direct sun beneficial",
+      "water": "Water when soil is completely dry; every 1-2 weeks",
+      "temperature": "65-80°F (18-27°C)",
+      "humidity": "Low; very drought tolerant"
+    },
+    "image": "/images/plants/succulents-assorted.jpg",
+    "featured": false
+  }
+]
